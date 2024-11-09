@@ -1,5 +1,8 @@
 # Shortest Path Calculation with A* Algorithm
-Este projeto implementa um sistema de cálculo de rotas para encontrar o caminho mais curto em uma área modelada como grafo. A estrutura do grafo representa as ruas de um bairro, com distâncias reais entre interseções, e utiliza o algoritmo A* para a busca eficiente do caminho entre um ponto de origem e um de destino.
+Este projeto implementa um sistema de cálculo de rotas para encontrar o caminho mais curto em uma área modelada como grafo, Cerqueira César. A estrutura do grafo representa as ruas, com distâncias reais entre interseções, e utiliza o algoritmo A* para a busca eficiente do caminho entre um ponto de origem e um de destino.
+
+![image](https://github.com/user-attachments/assets/d13206e8-d243-49af-b82d-dda95518ab0a)
+
 
 ## Funcionalidades
 - Modelagem de um bairro como grafo, onde os vértices representam pontos de interseção e as arestas representam as ruas.
